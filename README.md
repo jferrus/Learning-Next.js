@@ -34,3 +34,12 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## Debugging on VSCode
+Customized launch.json for debugging and tested on client side
+
+# Pourpouse of this program
+The aim of this program is test Next.js and react components, events, states that are variables on live, inheritance of functions and variables between parents to child components.
+
+# What should do this program?
+This program is composed with two componets and when one of them is clicked writes a message in the clicked component  and erase the massage in the other component. That's all!
