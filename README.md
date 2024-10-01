@@ -38,7 +38,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 ## Debugging on VSCode
 Customized launch.json for debugging and tested on client side
 
-# Pourpouse of this program
+# Purpouse of this program
 The aim of this program is test Next.js and react components, events, states that are variables on live, inheritance of functions and variables between parents to child components.
 
 # What should do this program?
